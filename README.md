@@ -1,4 +1,4 @@
-# Bundle-Mynet.-Benchmarking
+# Bundle-Mynet-Benchmarking
 
 # Bundle vs. Mynet: Ürün Analizi ve UX Araştırması
 **self learning case study**
