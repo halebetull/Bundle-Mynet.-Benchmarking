@@ -4,9 +4,9 @@
 **self learning case study**
 
 ## Proje Özeti
-Bu proje, Türkiye haber dikeyi ekosisteminin iki önemli oyuncusu **Bundle** ve **Mynet**’i ürün yönetimi perspektifiyle incelediğim kişisel bir gelişim çalışmasıdır.
+Bu proje, Türkiye haber ekosisteminin iki önemli app'i **Bundle** ve **Mynet**’i ürün yönetimi perspektifiyle incelediğim kişisel bir gelişim çalışmasıdır.
 
-Amacım; bu ürünlerin arkasındaki stratejileri, kullanıcıyı elde tutma mekaniklerini, gelir modelleri ile kullanıcı deneyimi arasındaki dengeyi analiz ederek bir "Ürün Yöneticisi" gözüyle yorumlamaktır.
+Amacım; bu ürünlerin arkasındaki stratejileri, kullanıcıyı elde tutma mekaniklerini, gelir modelleri ile kullanıcı deneyimi arasındaki dengeyi analiz ederek yorumlamaktır.
 
 *Not: Bu çalışma tamamen bireysel öğrenme ve ürün düşünme pratiği amacıyla hazırlanmıştır.*
 
